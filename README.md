@@ -3,7 +3,7 @@ bitly API python library
 
 ## Installation
 
-    pip install bitly_api
+    pip install hpx-bitly
 
 ## Run tests
 
